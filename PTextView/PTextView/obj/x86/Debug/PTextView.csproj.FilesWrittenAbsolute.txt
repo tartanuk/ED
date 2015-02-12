@@ -1,0 +1,12 @@
+/Users/mariiaa/Documents/ED/EDcs/PTextView/PTextView/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/mariiaa/Documents/ED/EDcs/PTextView/PTextView/obj/x86/Debug/PTextView.gtk-gui.gui.stetic
+/Users/mariiaa/Documents/ED/EDcs/PTextView/PTextView/bin/Debug/PTextView.exe.mdb
+/Users/mariiaa/Documents/ED/EDcs/PTextView/PTextView/bin/Debug/PTextView.exe
+/Users/mariiaa/Documents/ED/EDcs/PTextView/PTextView/obj/x86/Debug/PTextView.exe
+/Users/mariiaa/Documents/ED/EDcs/PTextView/PTextView/obj/x86/Debug/PTextView.exe.mdb
+/Users/tartanuk/Documents/EDcsharp/PTextView/PTextView/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/tartanuk/Documents/EDcsharp/PTextView/PTextView/obj/x86/Debug/PTextView.gtk-gui.gui.stetic
+/Users/tartanuk/Documents/EDcsharp/PTextView/PTextView/bin/Debug/PTextView.exe.mdb
+/Users/tartanuk/Documents/EDcsharp/PTextView/PTextView/bin/Debug/PTextView.exe
+/Users/tartanuk/Documents/EDcsharp/PTextView/PTextView/obj/x86/Debug/PTextView.exe
+/Users/tartanuk/Documents/EDcsharp/PTextView/PTextView/obj/x86/Debug/PTextView.exe.mdb
