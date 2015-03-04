@@ -1,0 +1,6 @@
+/Users/tartanuk/Projects/POscar/POscar/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/tartanuk/Projects/POscar/POscar/obj/x86/Debug/POscar.gtk-gui.gui.stetic
+/Users/tartanuk/Projects/POscar/POscar/bin/Debug/POscar.exe.mdb
+/Users/tartanuk/Projects/POscar/POscar/bin/Debug/POscar.exe
+/Users/tartanuk/Projects/POscar/POscar/obj/x86/Debug/POscar.exe
+/Users/tartanuk/Projects/POscar/POscar/obj/x86/Debug/POscar.exe.mdb
